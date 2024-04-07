@@ -1,42 +1,67 @@
-<h1>🦸‍♂️Power Up!</h1>
+# 🦸‍♂️ Power Up! 🦸‍♀️
 
-<h2>Rent and/or lend superpowers from superheroes and villains!</h2>
+Rent superpowers from superheroes and villains!
+<br>
+[https://power-up-4a2dcd45258f.herokuapp.com](https://power-up-4a2dcd45258f.herokuapp.com/)
 
-Getting Started
-Setup
-Install gems
+## Getting Started
 
+### Setup
+
+install gems
+
+```bash
 bundle install
-Install JS packages
+```
 
-yarn install
-ENV Variables
-Create .env file
+###  ENV Variables
 
+Create `.env` file
+
+```bash
 touch .env
-Inside .env, set these variables. For any APIs, see group Slack channel.
+```
 
+Inside .env, set these variables and dm me if any API(s) is necessary!
+
+```bash
 CLOUDINARY_URL=your_own_cloudinary_url_key
+```
 
-DB Setup
+### DB Setup
+
+```bash
 rails db:create
 rails db:migrate
 rails db:seed
-Run a server by rails s
+```
 
-Built With
-Rails 7 - Backend / Front-end
-Stimulus JS - Front-end JS
-Heroku - Deployment
-PostgreSQL - Database
-Bootstrap — Styling
-Figma — Prototyping
+### Run The Server
 
-Team Members
-Felix Lange, Noah Taiga Endo, Leauno
+```bash
+rails s
+```
+## Built With
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+* **Frontend** - HTML, [SCSS](https://sass-lang.com/guide/), [Bootstrap](https://getbootstrap.com/), [Stimulus JS](https://stimulus.hotwired.dev/)
+* **Backend** - [Rails 7](https://guides.rubyonrails.org/)
+* **Deployment** - [Heroku](https://heroku.com/)
+* **Database** - [PostgreSQL](https://www.postgresql.org/)
+* **Prototyping** - [Figma](https://www.figma.com/)
+
+## Team Members
+
+* [Felix Edgar Lange](https://github.com/flxlng)
+* [Noah Taiga Endo](https://github.com/Octosub)
+* [Leandro Munoz](https://github.com/leamuno)
+* [Koji Mimura](https://github.com/imnadleeh)
+
+## FAQ
+
+Pull requests are welcome! Feel free to contact me or any other members for inquiries!
 
 Inspired by Airbnb's Experiences
 
 Rails app generated with lewagon/rails-templates, created by the Le Wagon coding bootcamp team.
+
+README.md created using [README Creator](https://josuedla.github.io/readme-creator/) and [Editor.md](https://pandao.github.io/editor.md/en.html)
