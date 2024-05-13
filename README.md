@@ -1,7 +1,7 @@
 # 🦸‍♂️ Power Up! 🦸‍♀️
 
-Rent superpowers from superheroes and villains!
-<br>
+Power-Up is an online marketplace that connects people who want to rent out their superpowers for people who are looking to power up!
+
 https://power-up-4a2dcd45258f.herokuapp.com
 
 ## Getting Started
@@ -58,9 +58,9 @@ rails s
 
 ## FAQ
 
-Pull requests are welcome! Feel free to contact me or any other members for inquiries!
+Collaborations are welcome! Feel free to contact me or any other members for inquiries!
 
-Inspired by Airbnb's Experiences
+Inspired by [Airbnb](https://www.airbnb.com/)'s experiences
 
 Rails app generated with lewagon/rails-templates, created by the Le Wagon coding bootcamp team.
 
