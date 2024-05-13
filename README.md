@@ -2,7 +2,7 @@
 
 Rent superpowers from superheroes and villains!
 <br>
-[https://power-up-4a2dcd45258f.herokuapp.com](https://power-up-4a2dcd45258f.herokuapp.com/)
+https://power-up-4a2dcd45258f.herokuapp.com
 
 ## Getting Started
 
