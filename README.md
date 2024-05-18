@@ -2,7 +2,7 @@
 
 Power-Up is an online marketplace that connects people who want to rent out their superpowers for people who are looking to power up!
 
-https://power-up-4a2dcd45258f.herokuapp.com
+Link to the website: https://power-up-4a2dcd45258f.herokuapp.com
 
 ## Getting Started
 
